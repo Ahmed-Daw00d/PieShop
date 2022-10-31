@@ -1,0 +1,15 @@
+﻿@model ShoppingCartViewModel
+
+@if(Model.shoppingCart.ShoppingCartItems.Count>0){
+    <ul class="navbar-nav mb-2 mb-lg-0">
+        <li class="nav-item">
+            <a asp-controller="ShoppingCart" asp-action="AddToShoppingCart" class="nav-link" >
+                <img src="~/Images/basket.svg"  width="28" height="28"  class="bi bi-cart3" viewBox="0 0 16 16"/>
+                    
+                <span id="cart-status">
+                    @Model.shoppingCart.ShoppingCartItems.Count
+                </span>
+            </a>
+        </li>
+    </ul>
+}
