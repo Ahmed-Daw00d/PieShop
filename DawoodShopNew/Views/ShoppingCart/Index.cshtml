@@ -1,12 +1,17 @@
 ﻿@model ShoppingCartViewModel
 
 <h3 class="my-5">
-    Shopping cart
+    Shopping cart 🛒🛒
 </h3>
 
 
 <div class="row gx-3">
     <div class="col-8">
+        @if(Model.shoppingCart.ShoppingCartItems.Count()<1){
+            <h2>Cart is empty</h2>
+            <i> <b class="text-hight-50">Shop First 😊😁</b></i>
+            <img src="~/Images/cartempty2.png" height="500" />
+        }
         @foreach (var line in Model.shoppingCart.ShoppingCartItems)
         {
             <div class="card shopping-cart-card mb-2">
@@ -22,6 +27,18 @@
                                 <h2>@line.pie.Price.ToString("c")</h2>
                             </div>
                         </div>
+                        <div class="row-3">
+                            <a class="btn btn-secondary"
+                           asp-controller="ShoppingCart" 
+                           asp-action="RemoveFromShoppingCart" 
+                           asp-route-PieId="@line.pie.PieId">Remove</a>
+
+                            <a class="btn btn-secondary"
+                           asp-controller="ShoppingCart"
+                           asp-action="AddToShoppingCart"
+                           asp-route-PieId="@line.pie.PieId">Add More</a>
+                        </div>
+                        
                     </div>
                 </div>
             </div>
@@ -35,8 +52,10 @@
             </div>
             <hr />
             <div class="text-center d-grid">
-                <a class="btn btn-secondary" asp-controller="Order"
-                   asp-action="Checkout"><h4>Check out now! </h4></a>
+                @if(Model.shoppingCart.ShoppingCartItems.Count()>0){
+                    <a class="btn btn-secondary" asp-controller="Order"
+                   asp-action="Checkout"><h4>Check out now! </h4></a>}
+                
             </div>
         </div>
     </div>

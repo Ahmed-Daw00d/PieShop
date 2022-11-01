@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "F5k18cDax4AeGoMWXK/mfYaNY/jMCkhDMKzqvq7c84c=",
+  "Hash": "ldMQPn1hoOT2DxywKzy49MG4yjSLoiPX2RyXcY5Hj3w=",
   "Source": "DawoodShopNew",
   "BasePath": "_content/DawoodShopNew",
   "Mode": "Default",
@@ -1154,6 +1154,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\carousel3.jpg"
+    },
+    {
+      "Identity": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\wwwroot\\Images\\cartempty.png",
+      "SourceId": "DawoodShopNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\wwwroot\\",
+      "BasePath": "_content/DawoodShopNew",
+      "RelativePath": "Images/cartempty.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cartempty.png"
+    },
+    {
+      "Identity": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\wwwroot\\Images\\cartempty2.png",
+      "SourceId": "DawoodShopNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\wwwroot\\",
+      "BasePath": "_content/DawoodShopNew",
+      "RelativePath": "Images/cartempty2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cartempty2.png"
     },
     {
       "Identity": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\wwwroot\\Images\\contact\\contact.jpg",
