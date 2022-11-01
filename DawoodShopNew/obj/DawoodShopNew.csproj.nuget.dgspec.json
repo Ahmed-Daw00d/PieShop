@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj": {}
+    "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj": {}
   },
   "projects": {
-    "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj": {
+    "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj",
+        "projectUniqueName": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj",
         "projectName": "DawoodShopNew",
-        "projectPath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj",
+        "projectPath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj",
         "packagesPath": "C:\\Users\\adawo\\.nuget\\packages\\",
-        "outputPath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\obj\\",
+        "outputPath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adawo\\AppData\\Roaming\\NuGet\\NuGet.Config",

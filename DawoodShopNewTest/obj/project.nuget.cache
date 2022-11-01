@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L69JNeycanPPC+3hE5TNrhD+ItIoxJmpwKG3AJJfqpw86L8uelFsdWsEOCaJKh8Q0fgMa2aUuc+NZLxobEoulg==",
+  "dgSpecHash": "dVflxu8V7Wih93uxUE0/Gc/eBH5lkTwreBQu5lzQ60DJnAt9X5i1viZx0w1lSFjSdf1px8MF28Ms4nUrI39Jjg==",
   "success": true,
-  "projectFilePath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNewTest\\DawoodShopNewTest.csproj",
+  "projectFilePath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNewTest\\DawoodShopNewTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adawo\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\adawo\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

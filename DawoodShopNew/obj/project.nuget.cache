@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rNxKEgAkA2puEB7FAHxQUWYVC3anoXQXKhDmZkDpu7P8KNcQxsd4Af1YSmrfP+N4s77pFhMVNqowbQ8pMwzyrg==",
+  "dgSpecHash": "t4kZuCFsw9+9Hl/EYMwQzORmdRZZOndrOF56YQCC698eNm0/Rcgg6xPJ2QYMW/JtXU1yGpQukxQvw4ssD6aFNQ==",
   "success": true,
-  "projectFilePath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj",
+  "projectFilePath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adawo\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
     "C:\\Users\\adawo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

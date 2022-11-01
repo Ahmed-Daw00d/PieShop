@@ -11556,11 +11556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNewTest\\DawoodShopNewTest.csproj",
+      "projectUniqueName": "D:\\course .net 6\\app\\PieShop\\DawoodShopNewTest\\DawoodShopNewTest.csproj",
       "projectName": "DawoodShopNewTest",
-      "projectPath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNewTest\\DawoodShopNewTest.csproj",
+      "projectPath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNewTest\\DawoodShopNewTest.csproj",
       "packagesPath": "C:\\Users\\adawo\\.nuget\\packages\\",
-      "outputPath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNewTest\\obj\\",
+      "outputPath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNewTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adawo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11577,8 +11577,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj": {
-              "projectPath": "D:\\course .net 6\\app\\DawoodShopNew\\DawoodShopNew\\DawoodShopNew.csproj"
+            "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj": {
+              "projectPath": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\DawoodShopNew.csproj"
             }
           }
         }
