@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WIuNbosWJJcOpDvO2MnAnq9zG6u6o4Yi2/nLpuIHVbY=",
+  "Hash": "rB6ldPjdvM63aT4WBuZnGvlJS9vrLehXXVd/2eiwXHM=",
   "Source": "DawoodShopNew",
   "BasePath": "_content/DawoodShopNew",
   "Mode": "Default",
@@ -1188,6 +1188,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Dawood.png"
+    },
+    {
+      "Identity": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\wwwroot\\Images\\empty.png",
+      "SourceId": "DawoodShopNew",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\wwwroot\\",
+      "BasePath": "_content/DawoodShopNew",
+      "RelativePath": "Images/empty.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\empty.png"
     },
     {
       "Identity": "D:\\course .net 6\\app\\PieShop\\DawoodShopNew\\wwwroot\\Images\\pngegg.png",
