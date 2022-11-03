@@ -1,15 +1,21 @@
-﻿@model ShoppingCartViewModel
+﻿
+@model ShoppingCartViewModel
 
-<h3 class="my-5">
+
+@if (Model.shoppingCart.ShoppingCartItems.Count()>0)
+{
+   <h3 class="my-5 text-center">
     Shopping cart 🛒🛒
-</h3>
-
+   </h3> 
+}else{
+    <br />
+    <br />}
 
 <div class="row gx-3">
     <div class="col-8">
         @if(Model.shoppingCart.ShoppingCartItems.Count()<1){
-            <h2>Cart is empty</h2>
-            <i> <b class="text-hight-50">Shop First 😊😁</b></i>
+            <h2 class="text-center">Cart is empty</h2>
+             <b class="text-hight-50"><a asp-controller="home">Shop First 😅😅</a></b>
             <img src="~/Images/empty.png" height="500" />
         }
         @foreach (var line in Model.shoppingCart.ShoppingCartItems)
