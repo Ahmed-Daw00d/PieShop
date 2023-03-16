@@ -544,3 +544,8 @@ D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\refint\DawoodShopNew
 D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\DawoodShopNew.pdb
 D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\DawoodShopNew.genruntimeconfig.cache
 D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\ref\DawoodShopNew.dll
+D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\staticwebassets\msbuild.DawoodShopNew.Microsoft.AspNetCore.StaticWebAssets.props
+D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\staticwebassets\msbuild.build.DawoodShopNew.props
+D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DawoodShopNew.props
+D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DawoodShopNew.props
+D:\course .net 6\app\PieShop\DawoodShopNew\obj\Debug\net6.0\staticwebassets.pack.json

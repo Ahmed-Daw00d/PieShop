@@ -10,5 +10,7 @@
         }
 
         public IEnumerable<Category> AllCategories => _dawoodShopNewDbContext.Categories.OrderBy(c => c.NameCategory);
+
+       
     }
 }
